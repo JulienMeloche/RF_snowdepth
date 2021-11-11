@@ -1,4 +1,4 @@
-# Snow depth prediction using Random Forest for an entire watershed
+# Snow depth prediction using Random Forest for a watershed
 ### Contains Code and data to train the algorithm
 #### or simply used the final snow depth map (Ecotype_Greiner_snowRF.tif)
 
